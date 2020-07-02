@@ -1,0 +1,6 @@
+If you want to compile one of these example programs please copy to
+the src/Programs/ directory (one level up) and compile in the
+QUIP_ROOT directory with (e.g. for lj_example):
+
+    make Programs/lj_example
+
